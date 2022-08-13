@@ -2,8 +2,8 @@
 3D printable enclosure with compliant buttons for boot and reset.
 
 ## Required Hardware
-*M2x16 machine screws   x4
-*M2 heatset inserts  x4
+M2x16 machine screws   x4
+M2 heatset inserts  x4
 
 The heat inserts are installed in the battery case from the outside.
 
