@@ -3,6 +3,7 @@
 
 ## Required Hardware
 M2x16 machine screws   x4
+
 M2 heatset inserts  x4 https://www.mcmaster.com/94459A120/
 
 The heat inserts are installed in the battery case from the outside.
