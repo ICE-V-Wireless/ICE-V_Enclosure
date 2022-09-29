@@ -1,5 +1,6 @@
 # ICE-V_Enclosure
 ![ICE-V Render](https://groupgets-files.s3.amazonaws.com/ICE-V/Enclosure/ICE-V_Wireless_Enclosure_with_Hardware_Render-min.png)
+
 3D printable enclosure with compliant buttons for boot and reset.
 
 ## Required Hardware
