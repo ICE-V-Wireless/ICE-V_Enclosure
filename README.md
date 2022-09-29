@@ -1,6 +1,5 @@
 # ICE-V_Enclosure
-![ICE-V Render](https://groupgets-files.s3.amazonaws.com/ICE-V/Enclosure/ICE-V_Wireless_Enclosure_with_Hardware_Render-min.png)
-
+![ICE-V Render](https://groupgets-files.s3.amazonaws.com/ICE-V/Enclosure/ICE-V_Wireless_Enclosure_with_Hardware_Render-min.png)<br>
 3D printable enclosure with compliant buttons for boot and reset.
 
 ## Required Hardware
@@ -17,7 +16,7 @@ The battery holder piece can be optional if instead M2x10 screws are used with M
 The holes in the top are hexagonal and sized to hold the M2 nuts.
 
 ## 3D Printing Recomendations
-0.4mm nozzle
-PETG
-No supports
-The battery holder can be done with a 0.8mm nozzle.
+0.4mm nozzle<br>
+PETG<br>
+No supports<br>
+The battery holder can be done with a 0.8mm nozzle.<br>
